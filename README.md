@@ -58,6 +58,6 @@ Para realizar o desafio, envie um email para `devops@fuerzastudio.com.br` com o 
 Qualquer dúvida a respeito do desafio entre em contato conosco através do email devops@fuerzastudio.com.br que teremos o maior prazer em esclarecer.
 
 
-¹ Se optar em usar uma instância separada para o MySql como por exemplo, pode-se o mínimo de 2 containers.
+¹ Se optar em usar uma instância separada para o MySql como por exemplo, pede-se o mínimo de 2 containers.
 
 Boa sorte!
