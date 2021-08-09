@@ -61,25 +61,3 @@ Qualquer dúvida a respeito do desafio entre em contato conosco através do emai
 ¹ Se optar em usar uma instância separada para o MySql como por exemplo, pode-se o mínimo de 2 containers.
 
 Boa sorte!
-
----
-
-### to-do
-
-|tasks  | status  | 
-|---|---|
-| aws: keys config | done |
-| git: start new simple project and put docker-compose file | done |
-| docker-compose: "ws:apache-php and nginx"   | done |
-| docker-compose: fixed ip's | done |
-| tf: ec2 VPC | done |
-| tf: rds VPC subnet  | done |
-| tf: ec2 VPC subnet  | done |
-| tf: rds instance | done |
-| tf: ec2 instance | done |
-| tf: ec2 instance configs "git clone, and docker-compose up" | done |
-| tf: ec2 persistent volumes | disable/pending |
-| ec2 instance configs "lets' encrypt container" | disable |
-
-
-* docker config: https://github.com/nemmeviu/fuerzastudio-desafio
